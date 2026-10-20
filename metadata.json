@@ -1,0 +1,6 @@
+{
+  "name": "Tabbymart TBOS-FIN Executive Dashboard",
+  "description": "Executive financial health, marketplace comparison, SKU profitability, and returns analytics for Tabbymart across Amazon, Flipkart, and Meesho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
